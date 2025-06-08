@@ -1,4 +1,4 @@
-import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "./ui/card";
+import { Card, CardContent, CardFooter, CardHeader, CardTitle } from "./ui/card";
 
 // Constants
 const POSTER_BASE_URL = "https://image.tmdb.org/t/p/w500";

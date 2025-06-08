@@ -4,4 +4,7 @@ Messed up and ended up working in https://github.com/otago-polytechnic-bit-cours
 # Emerging Tech URL
 https://github.com/CWebb1/IntermediateAppDevProject.git
 
+# Hacker News
+https://intermediate-app-dev-project-r1ui.vercel.app
 
+#
