@@ -7,4 +7,5 @@ https://github.com/CWebb1/IntermediateAppDevProject.git
 # Hacker News
 https://intermediate-app-dev-project-r1ui.vercel.app
 
-#
+# Movie Listings
+https://intermediate-app-dev-project-37h6.vercel.app/

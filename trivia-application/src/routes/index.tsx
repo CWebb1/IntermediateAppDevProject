@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from "react"
 import { createFileRoute } from "@tanstack/react-router"
-import logo from "../logo.svg"
 
 export const Route = createFileRoute("/")({
   component: App,
