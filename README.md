@@ -9,3 +9,6 @@ https://intermediate-app-dev-project-r1ui.vercel.app
 
 # Movie Listings
 https://intermediate-app-dev-project-37h6.vercel.app/
+
+# Trivia App
+https://intermediate-app-dev-project-rulc.vercel.app/
